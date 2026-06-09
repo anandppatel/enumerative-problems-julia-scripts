@@ -1,10 +1,11 @@
-# Enumerative Problems Julia Scripts
+# Enumerative Problems Computation Scripts
 
-Julia scripts for computations related to enumerative geometry problems.
+Julia and Macaulay2 scripts for computations related to enumerative geometry
+problems.
 
 This repository was exported from an Obsidian vault and intentionally contains
-only Julia source files. Directory names from the original vault are preserved
-where relevant.
+only source files for the relevant computations. Directory names from the
+original vault are preserved where relevant.
 
 ## Contents
 
@@ -14,3 +15,4 @@ where relevant.
 - `ternary_sextic_email_bundle/`
 - `Counting Pentagrams/computation/`
 - `Hessian Simplex Map/`
+- `ProjectiveGeometry/PR_computations/`
