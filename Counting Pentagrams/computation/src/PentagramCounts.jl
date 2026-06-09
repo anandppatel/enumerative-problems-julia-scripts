@@ -1,0 +1,4 @@
+module PentagramCounts
+
+end
+

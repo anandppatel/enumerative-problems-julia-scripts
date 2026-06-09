@@ -1,0 +1,16 @@
+# Julia-generated files
+*.ji
+*.jls
+Manifest.toml
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary output
+tmp/
+scratch/
+output/
+outputs/
+checkpoints/
